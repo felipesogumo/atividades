@@ -1,0 +1,7 @@
+let estaChovendoHoje = false;
+
+if (estaChovendoHoje) {
+    console.log("Leve um guarda-chuva!");
+} else {
+    console.log("Não precisa de guarda-chuva.");
+}
